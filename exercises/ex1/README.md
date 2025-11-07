@@ -31,7 +31,9 @@ _SAP Build Lobby_ is the starting point to manage your different Build project t
 1. In your browser, sign in to the Build lobby with the credentials of your exercise group.  
 
 > The URL and the username and the password will be provided to you by the course instructors.
-> The URL to the SAP Build Lobby is: https://ad163-....
+> The URL to the SAP Build Lobby is provided as a shortened URL in a format such as https://url.sap/abc123.
+
+2. Add the shortened URL for the SAP Build Lobby into your browser.
 
 3. When being prompted enter the credentials:
 
@@ -40,7 +42,7 @@ _SAP Build Lobby_ is the starting point to manage your different Build project t
 
    ⚠️⚠️⚠️ Be sure to replace the placeholder `###` with the correct group id. (`A##` for ASUG, `B##` for SAP Teched, ...) 
 
-     <img src="images/00_010_initial_authentication.png" alt="create dialog" width="25%">
+   <img src="images/00_010_initial_authentication.png" alt="create dialog" width="25%">
 
 4. In the SAP Build Lobby, click on **Create** right above the project list and select **Create** from the drop-down list. 
 
