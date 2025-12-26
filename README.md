@@ -32,7 +32,9 @@ ABAP Cloud is the development model for building clean core compliant apps, serv
 
 ## Presentation & Replay
   
-* Access the presentation: 
+* Access the presentation:
+
+  [Slides](../slides/)
 
 ## Exercises
 [^Top of page](#)
